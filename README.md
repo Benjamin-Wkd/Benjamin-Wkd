@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Benjamin-Wkd
 - 🌱 I’m an engineering student at CentraleSupélec
-- 🧠 I’m currently learning Cmomputational Neuroscience
+- 🧠 I’m currently learning Computational Neuroscience
 
 
 <!---
