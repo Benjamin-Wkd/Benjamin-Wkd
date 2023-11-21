@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Benjamin-Wkd
-- 🌱 I’m an engineering student at CentraleSupélec
+- 🌱 I’m an engineering x neuroscience graduate at CentraleSupélec and University College London.
 - 🧠 I’m currently working Computational Neuroscience
 
 
